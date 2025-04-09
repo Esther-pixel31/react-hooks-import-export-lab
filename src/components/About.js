@@ -1,5 +1,5 @@
 import React from "react";
-import {image} from ".src/data/user.js"; 
+import {image} from "../data/user.js"; 
  // Replace with the actual path to your image
 function About() {
   return (
